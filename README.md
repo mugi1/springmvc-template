@@ -1,4 +1,3 @@
-springmvc-template
-==================
-
-SpringMVC + eclipse(WTP) + gradle
+```
+gradle eclipse
+```
